@@ -1,5 +1,6 @@
 #ifndef GRIDT_H
 #define GRIDT_H
+#include "GridTHelper.h"
 #include "ArrayT.h"
 template< typename T>
 class GridT

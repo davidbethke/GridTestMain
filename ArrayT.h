@@ -1,5 +1,6 @@
 #ifndef ARRAYT_H
 #define ARRAYT_H
+#include "ArrayTHelper.h"
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
