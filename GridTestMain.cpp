@@ -1,5 +1,8 @@
 // GridTestMain.cpp : Defines the entry point for the console application.
-//
+//ITSE 2431 Lab:5
+//Dave Bethke
+// Problem 1 c,d
+// Should work
 
 #include "stdafx.h"
 #include "GridT.h"
@@ -14,6 +17,7 @@ using namespace std;
 int main()
 {
 	GridT<int> myGrid;
+	myGrid[8][8]=8;
 	cout << myGrid;
 	getchar();
 	GridT<Person> people;
